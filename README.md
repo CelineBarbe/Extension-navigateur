@@ -8,3 +8,5 @@ Une authentification via google.auth a été mise en place même si pour le mome
 Ceci est la version expurgée de tous les essais précédents.
 
 Ce travail a été réalisé en binome avec Baptiste Gaubert (https://github.com/Baptistegaubert).
+
+Avec brio.
